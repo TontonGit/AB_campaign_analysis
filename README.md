@@ -1,3 +1,9 @@
+
+## 📊 Project Preview
+
+![Conversion Rate](images/conversion_rate_by_ad_group.png)
+
+
 # 📊 A/B Testing Analysis: Advertisement Campaign Performance
 
 ## 📌 Project Overview
@@ -99,4 +105,16 @@ Although Ad B shows a slightly higher conversion rate, there is insufficient sta
 
 ---
 
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Install dependencies  
+3. Open the notebook in `/notebooks`  
+
 ## 🗂️ Project Structure
+
+
+## 👤 Author
+
+Akowe S. Atty  
+[GitHub Profile](https://github.com/TontonGit)
