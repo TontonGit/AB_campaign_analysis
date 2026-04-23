@@ -2,6 +2,10 @@
 ## 📊 Project Preview
 
 ![Conversion Rate](images/conversion_rate_by_ad_group.png)
+*Conversion rate comparaison between Ad A and Ad B*
+
+![Confidence Interval](images/confidence_interval.png)
+*Plausible values of the true effect (difference in conversion rates)*
 
 
 # 📊 A/B Testing Analysis: Advertisement Campaign Performance
